@@ -42,12 +42,14 @@ and development practices.
 
 ## Software Architecture and Communication
 
-- [MQTT](https://github.com/csc-3100/Tool-MQTT) —
-  Implement publish-subscribe communication using
-  Eclipse Paho and Java.
+- [HTTP Fundamentals](https://github.com/csc-3100/cloud-http-fundamentals) —
+  Consume third-party APIs from Java using HTTP requests and responses.
 
-- [Cloud Services](https://github.com/csc-3100/Cloud-Services) —
-  Integrate external services through HTTP-based APIs.
+- [MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) —
+  Learn publish-subscribe messaging, topics, and asynchronous communication.
+
+- [MQTT Game](https://github.com/csc-3100/cloud-mqtt-game) —
+  Explore distributed application architecture through an MQTT-based game.
 
 - [Pong](https://github.com/csc-3100/Game-Pong) —
   Explore client-server architecture and communication
