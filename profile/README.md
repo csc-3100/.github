@@ -2,80 +2,43 @@
 
 # CSC 3100 | Software Engineering
 
-This organization provides Java examples, tools, and applications
-supporting the study of software engineering.
+Java examples, educational tools, applications, and games supporting **CSC 3100: Introduction to Software Engineering**.
 
-The repositories illustrate how software evolves from requirements
-and design models into working implementations, emphasizing
-object-oriented design, software architecture, design patterns,
-and development practices.
+These repositories illustrate how software evolves from requirements and UML models to implementation, testing, and maintenance. Topics include object-oriented design, design patterns, architecture, dependency management, user interfaces, and communication.
 
-## Software Design
+Repositories are grouped by purpose: `edu-` for teaching examples, `app-` for applications and projects, `game-` for games, and `cloud-` for networking and service examples.
 
-- [PlantUML](https://github.com/csc-3100/Tool-PlantUML) —
-  Create and visualize UML diagrams using Java and PlantUML.
+## Design, Patterns, and Development Tools
 
-- [GitHubViz](https://github.com/csc-3100/App-GithubViz) —
-  Explore software architecture, dependencies, coupling,
-  cohesion, and software quality metrics.
+- [edu-plantuml](https://github.com/csc-3100/edu-plantuml) — Create and render UML diagrams with PlantUML.
+- [edu-patterns](https://github.com/csc-3100/edu-patterns) — Study common object-oriented design patterns.
+- [edu-maven](https://github.com/csc-3100/edu-maven) — Explore Maven and Java dependency management.
+- [edu-logging](https://github.com/csc-3100/edu-logging) — Practice application logging with SLF4J and Logback.
+- [edu-plotter](https://github.com/csc-3100/edu-plotter) — Compare classic, modern, and legacy Java plotting examples using Observer and Decorator.
 
-## Design Patterns
+## User Interfaces and Applications
 
-- [Patterns](https://github.com/csc-3100/Patterns) —
-  Java implementations of common software design patterns,
-  including Observer, Singleton, and Decorator.
+- [edu-swing](https://github.com/csc-3100/edu-swing) — Explore Java Swing components, event handling, and graphical interfaces.
+- [app-paint](https://github.com/csc-3100/app-paint) — Explore modular design and interaction in a drawing application.
+- [app-planIt-poker](https://github.com/csc-3100/app-planIt-poker) — Starter application for Java UI design.
+- [app-codeviz-template](https://github.com/csc-3100/app-codeviz-template) — Starter template for visualizing code and software structure.
 
-- [Paint](https://github.com/csc-3100/App-Paint) —
-  A drawing application demonstrating listeners, modular
-  design, and the evolution of software through multiple versions.
+## Communication and Cloud
 
-## Development Tools
+- [cloud-http-fundamentals](https://github.com/csc-3100/cloud-http-fundamentals) — Consume external HTTP APIs from Java, including JSON and authentication examples.
+- [cloud-mqtt-fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals) — Demonstrate publish–subscribe communication with Java and MQTT.
 
-- [Maven](https://github.com/csc-3100/Tool-Maven) —
-  Manage Java dependencies and integrate external libraries.
+## Games and Architecture Examples
 
-- [Logging](https://github.com/csc-3100/Tool-Logging) —
-  Implement application logging using SLF4J and Logback.
-
-- [Biblos](https://github.com/csc-3100/biblos) —
-  Reusable Java packages supporting academic projects.
-
-## Software Architecture and Communication
-
-- [MQTT](https://github.com/csc-3100/Tool-MQTT) —
-  Implement publish-subscribe communication using
-  Eclipse Paho and Java.
-
-- [Cloud Services](https://github.com/csc-3100/Cloud-Services) —
-  Integrate external services through HTTP-based APIs.
-
-- [Pong](https://github.com/csc-3100/Game-Pong) —
-  Explore client-server architecture and communication
-  using Java sockets.
-
-## Applications and Games
-
-- [Swing](https://github.com/csc-3100/Swing) —
-  Explore Java graphical interfaces, components,
-  event handling, and listeners.
-
-- [Tic-Tac-Toe](https://github.com/csc-3100/Game-TicTacToe) —
-  Practice modular object-oriented design and
-  software engineering principles.
-
-- [Pacman](https://github.com/csc-3100/Game-Pacman) —
-  Explore threads, timers, and keyboard listeners.
-
-- [Battleship](https://github.com/csc-3100/Game-Battleship) —
-  An example game implementation in development.
-
-- [Tower of Hanoi](https://github.com/csc-3100/Game-ToweHanoi) —
-  A graphical implementation of the Tower of Hanoi game.
-
-- [PlanIt Poker](https://github.com/csc-3100/PlanIt-Poker) —
-  Starter code for exploring Java user interface design.
+- [game-pong](https://github.com/csc-3100/game-pong) — Explore Java sockets and client–server communication.
+- [game-mqttworld](https://github.com/csc-3100/game-mqttworld) — Explore an MQTT-connected Java game world.
+- [game-pacman](https://github.com/csc-3100/game-pacman) — Practice timers, threads, and keyboard events.
+- [game-tictactoe](https://github.com/csc-3100/game-tictactoe) — Practice modular design and object-oriented principles.
+- [game-battleship](https://github.com/csc-3100/game-battleship) — Explore a draft Battleship implementation.
+- [game-hanoitowers](https://github.com/csc-3100/game-hanoitowers) — Explore a graphical Tower of Hanoi implementation.
 
 ---
 
-These repositories are intended for educational exploration,
-experimentation, and extension.
+Additional course applications and exercises are available to organization members in private repositories.
+
+These projects are intended for educational exploration, experimentation, and extension. See each repository's README for setup instructions and its license for usage terms.
