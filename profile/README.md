@@ -8,7 +8,7 @@ These repositories illustrate how software evolves from requirements and UML mod
 
 Repositories are grouped by purpose: `edu-` for teaching examples, `app-` for applications and projects, `game-` for games, and `cloud-` for networking and service examples.
 
-## Design, Patterns, and Development Tools
+## Design and Development Tools
 
 - [edu-plantuml](https://github.com/csc-3100/edu-plantuml) — Create and render UML diagrams with PlantUML.
 - [edu-patterns](https://github.com/csc-3100/edu-patterns) — Study common object-oriented design patterns.
