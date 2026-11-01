@@ -2,7 +2,7 @@
 
 # Fundamentals of Software Engineering
 
-Java examples, educational tools, applications, and games supporting **CSC 3100: Introduction to Software Engineering**.
+Java examples, educational tools, applications, and games supporting **CSC 3100: Fundamentals of Software Engineering**.
 
 These repositories illustrate how software evolves from requirements and UML models to implementation, testing, and maintenance. Topics include object-oriented design, design patterns, architecture, dependency management, user interfaces, and communication.
 
