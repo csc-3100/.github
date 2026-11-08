@@ -1,4 +1,4 @@
-<img width="1600" height="160" alt="github banner" src="https://github.com/user-attachments/assets/8cc90d00-4a41-4f5d-bb4c-586655213faa" />
+![CSC 3100 course banner](assets/3100-banner.png)
 
 # Fundamentals of Software Engineering
 
